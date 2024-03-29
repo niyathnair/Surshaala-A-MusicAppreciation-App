@@ -1,3 +1,3 @@
-# flutter_music_app_ui
+# Surshaala
 
-A new Flutter project.
+A flutter + Machine learning project
